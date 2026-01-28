@@ -10,8 +10,8 @@ for i in range(0, 26):
 
 def rot13(message):
     result = ''
-    for letter in message:
-        substitution = table[letter] if letter in table else letter
+    for character in message:
+        substitution = table[character] if character in table else character
         result += substitution
     return result
 
