@@ -1,0 +1,14 @@
+hello world
+it's thursday, january 29, 2026
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789
+
+π ≈ 3.14
+
+sin(θ) = 1
+θ = π/2 + 2nπ
+
+¡Holá!
+¿Cómo estás?
